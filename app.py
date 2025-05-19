@@ -49,7 +49,9 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Sidebar
-st.sidebar.image("LOGO.png", use_column_width=True)
+# st.sidebar.image("LOGO.png", use_column_width=True)
+st.sidebar.image("LOGO.png")
+
 st.sidebar.title("📊 Sentiment Analysis")
 st.sidebar.header("🔗 Enter YouTube Link")
 youtube_link = st.sidebar.text_input("Paste Link Here", placeholder="Enter a valid YouTube URL")
