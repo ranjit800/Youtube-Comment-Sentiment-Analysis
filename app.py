@@ -23,7 +23,7 @@ st.markdown("""
             margin-bottom: 20px;
         }
         .metric-container {
-            background-color: green;
+            background-color: #36454F;
             padding: 15px;
             border-radius: 10px;
             text-align: center;
@@ -41,7 +41,7 @@ st.markdown("""
         .info-box {
             padding: 15px;
             border-radius: 10px;
-            background: gray;
+            background: #818589	;
             box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
             margin-bottom: 15px;
         }
