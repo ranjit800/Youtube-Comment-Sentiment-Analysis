@@ -1,7 +1,6 @@
-streamlit~=1.28.0
+streamlit
 pandas==1.4.2
-nltk==3.7
-plotly==5.14.1
+nltk
 colorama==0.4.4
 pip==23.1.2
 
@@ -16,4 +15,5 @@ api~=0.0.7
 tornado~=6.3.3
 Jinja2~=3.1.2
 setuptools~=65.5.0
-google-api-python-client~=2.161.0
+google-api-python-client
+plotly
